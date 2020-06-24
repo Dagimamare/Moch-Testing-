@@ -1,3 +1,3 @@
-function() {
+function abc() {
     console.log(abu)
 }
