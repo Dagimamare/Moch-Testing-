@@ -72,6 +72,13 @@ describe('Title', () => {
         assert.equal([1, 2, 3].indexOf(4), -1)
     })
 })
+function amazing() {
+    describe('Title', () => {
+        it('Description', () => {
+            assert.equal([1, 2, 3].indexOf(4), -1)
+        })
+    })
+}
 
 
 
