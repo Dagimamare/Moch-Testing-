@@ -1,6 +1,6 @@
 
 
 function hello() {
-    console.log
+    return 1+2
     
 }
